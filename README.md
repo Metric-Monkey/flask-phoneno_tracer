@@ -11,7 +11,7 @@ This is a simple Flask application that retrieves geolocation and carrier inform
 ### Installation
 
 1. Clone the repository:
-   git clone https://github.com/srikirupa/appdev.git
+   git clone https://github.com/metric-monkey/flask-phoneno_tracer.git
 
 2. Navigate to the project directory:
    cd your-repository
